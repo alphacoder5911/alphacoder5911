@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! 👋<br>I'm Shreyas Lalage, an aspiring Java Developer currently in my 5th semester of engineering, with a strong foundation in building robust and secure applications using the Java ecosystem.
+<h2 align="left">Hi there! 👋<br>I'm Shreyas Lalage, an aspiring Java Developer currently in my 7th semester of engineering, with a strong foundation in building robust and secure applications using the Java ecosystem.
 
 🔧 My journey began with Android Development, where I built apps like NoteIt using Kotlin, MVVM architecture, Room Database, and Retrofit API. Over time, I transitioned into backend development, where I’ve been working extensively with Java, Spring Boot, and Spring Security with JWT to develop secure, scalable REST APIs.
 
