@@ -1,4 +1,12 @@
-<h2 align="left">Hi there! 👋<br>I'm Shreyas Lalage, an aspiring Android Developer with a passion for building intuitive and efficient mobile applications. Currently in my 5th semester of engineering, I have been honing my skills in Kotlin, MVVM architecture, Room Database, and Retrofit API to create feature-rich apps like NoteIt, a note-taking app I built from scratch.<br><br>Beyond Android development, I have been exploring Java, Spring Boot, and recently started learning React.js to expand my full-stack capabilities. I also have an interest in cybersecurity .<br><br>Apart from coding, I'm an active member of the Diversity Dance Crew, balancing my technical pursuits with creativity and expression.<br><br>🔹 Tech Stack: Kotlin, Java, Spring Boot, React.js, Room DB, Retrofit, <br>     SQL, Firebase & Firestore.<br>🔹 Interests: Android Development, Cybersecurity, DSA, Full-Stack Development<br>🔹 Currently Exploring: JavaScript, React.js, and strengthening my DSA skills<br><br>I'm always eager to learn, collaborate, and work on innovative projects. Let's connect and build something amazing! 🚀</h2>
+<h2 align="left">Hi there! 👋<br>I'm Shreyas Lalage, an aspiring Java Developer currently in my 5th semester of engineering, with a strong foundation in building robust and secure applications using the Java ecosystem.
+
+🔧 My journey began with Android Development, where I built apps like NoteIt using Kotlin, MVVM architecture, Room Database, and Retrofit API. Over time, I transitioned into backend development, where I’ve been working extensively with Java, Spring Boot, and Spring Security with JWT to develop secure, scalable REST APIs.
+
+🌐 I’m also expanding my capabilities in full-stack development by learning React.js and integrating it with Spring Boot to build complete web applications. I've deployed full-stack projects using VPS hosting with custom domains, integrating features like authentication, real-time chat using Socket.IO, and MongoDB/Firebase for data storage.
+
+🎯 My current focus is to deepen my expertise in Java backend development, while strengthening my knowledge in DSA, system design, and cybersecurity fundamentals.
+
+🎨 Outside of tech, I’m part of the Diversity Dance Crew, where I express creativity and maintain a healthy balance between tech and art.</h2>
 
 ###
 
